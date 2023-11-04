@@ -21,12 +21,12 @@ const Works = () => {
                         AFC
                     </span>
                     <div className='pt-8 text-center'>
-                      <a href='/'>
-                        <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                      <a href='https://afc.world/' target='_blank' rel='noreferrer'>
+                        <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Visit</button>
                       </a>
-                      <a href='/'>
+                      {/* <a href='/'>
                         <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
-                      </a>
+                      </a> */}
                     </div>
                 </div>
             </div>
@@ -38,12 +38,12 @@ const Works = () => {
                         Dynnite
                     </span>
                     <div className='pt-8 text-center'>
-                      <a href='/'>
-                        <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                      <a href='https://dynnite.com/' target='_blank' rel='noreferrer'>
+                        <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Visit</button>
                       </a>
-                      <a href='/'>
+                      {/* <a href='/'>
                         <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
-                      </a>
+                      </a> */}
                     </div>
                 </div>
             </div>
@@ -52,15 +52,15 @@ const Works = () => {
                 {/* Hover Effects */}
                 <div className='opacity-0 group-hover:opacity-100'>
                     <span className='text-2xl font-bold text-white tracking-wider'>
-                        Dynnite
+                        Itsolutions4u
                     </span>
                     <div className='pt-8 text-center'>
-                      <a href='/'>
-                        <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                      <a href='https://www.itsolutions4u.co/' target='_blank' rel='noreferrer'>
+                        <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Visit</button>
                       </a>
-                      <a href='/'>
+                      {/* <a href='/'>
                         <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
-                      </a>
+                      </a> */}
                     </div>
                 </div>
             </div>
